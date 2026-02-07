@@ -145,7 +145,7 @@ button:hover {
   <h1>🔱 Neon Trap House 🔱</h1>
   <div class="neon-bg" onclick="showDoors()"></div>
 
-  <div class="doors" id="doors" style="display:none">
+  <div class="doors" id="doors" style="display:none"> 
     <div class="door" onclick="openRoom('vending')">Vending</div>
     <div class="door" onclick="openRoom('accessories')">Accessories</div>
     <div class="door" onclick="openRoom('puff')">Puff Puff</div>
